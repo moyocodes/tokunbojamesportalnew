@@ -1962,15 +1962,15 @@ ul {
 }
 
 .bg-overlay-theme-70:before {
-  background: rgba(229, 62, 41, 0.7);
+  background: rgba(182, 21, 0, 0.8);
 }
 
 .bg-overlay-theme-80:before {
-  background: rgba(229, 62, 41, 0.8);
+  background: rgba(182, 21, 0, 0.8);
 }
 
 .bg-overlay-theme-90:before {
-  background: rgba(229, 62, 41, 0.9);
+  background:rgba(182, 21, 0, 0.8);
 }
 
 .bg-overlay-theme-black-05,

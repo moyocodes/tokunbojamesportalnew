@@ -29,9 +29,9 @@ class Navbar extends Component {
 							</li>
 							<li>
 							{/* header-top-btn */}
-							<div className="header-top-btn">
+							{/* <div className="header-top-btn">
 								<Link to="/add-listing">Register as a Landlord</Link>
-							</div>
+							</div> */}
 							</li>
 						</ul>
 						</div>

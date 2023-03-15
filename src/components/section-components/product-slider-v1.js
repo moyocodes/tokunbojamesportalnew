@@ -6,7 +6,7 @@ class ProductSliderV1 extends Component {
 
     render() {
 
-        let publicUrl = process.env.PUBLIC_URL+'/'
+        let publicUrl = process.env.PUBLIC_URL+'/' 
 
     return <div>
 	
