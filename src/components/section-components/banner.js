@@ -30,7 +30,7 @@ function Banner() {
                           <span>
                             <i className="fas fa-home" />
                           </span>{" "}
-                          Real Estate Agency
+                          TJC Properties
                         </h6>
                         <h1 className="slide-title animated ">
                           Find Your Dream <br /> House By Us
