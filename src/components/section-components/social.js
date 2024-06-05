@@ -10,9 +10,9 @@ class Social extends Component {
 
     return <div className="ltn__social-media">
 			<ul>
-				<li><a href="https://www.facebook.com/tjc-properties" title="Facebook"><i className="fab fa-facebook-f" /></a></li>
-				<li><a href="https://www.twitter.com/tjc-properties" title="Twitter"><i className="fab fa-twitter" /></a></li>
-				<li><a href="https://www.instagram.com/tjc-properties" title="Instagram"><i className="fab fa-instagram" /></a></li>
+				{/* <li><a href="https://www.facebook.com/tjc-properties" title="Facebook"><i className="fab fa-facebook-f" /></a></li>
+				<li><a href="https://www.twitter.com/tjc-properties" title="Twitter"><i className="fab fa-twitter" /></a></li> */}
+				<li><a href="https://www.instagram.com/tjc_Properties@instagram" title="Instagram"><i className="fab fa-instagram" /></a></li>
 			</ul>
 		</div>
         }

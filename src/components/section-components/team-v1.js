@@ -44,7 +44,7 @@ class TeamV1 extends Component {
 						<img src={publicUrl+"assets/img/team/2.jpg"} alt="Image" />
 						</div>
 						<div className="team-info">
-						<h4><Link to="#">Mr Michael</Link></h4>
+						<h4><Link to="#">Mr Gbolahan</Link></h4>
 						<h6 className="ltn__secondary-color">Selling Agents</h6>
 						<div className="ltn__social-media">
 							<ul>
@@ -56,7 +56,7 @@ class TeamV1 extends Component {
 						</div>
 					</div>
 					</div>
-					{/* <div className="col-lg-4 col-sm-6">
+					<div className="col-lg-4 col-sm-6">
 					<div className="ltn__team-item ltn__team-item-3---">
 						<div className="team-img">
 						<img src={publicUrl+"assets/img/team/5.jpg"} alt="Image" />
@@ -73,7 +73,7 @@ class TeamV1 extends Component {
 						</div>
 						</div>
 					</div>
-					</div> */}
+					</div>
 				</div>
 				</div>
 			</div>

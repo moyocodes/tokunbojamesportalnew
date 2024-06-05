@@ -12,8 +12,8 @@ const FaqV1 = () => {
         <Navbar />
         <PageHeader headertitle="Frequently asked questions" subheader="FAQ" />
         <Faq />
-        <Counter />
-        <BlogSlider sectionClass="pt-120" />
+        {/* <Counter />
+        <BlogSlider sectionClass="pt-120" /> */}
         <CallToActionV1 />
         <Footer />
     </div>
